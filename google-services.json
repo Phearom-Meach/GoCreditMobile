@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "640116460158",
+    "project_id": "go-credit-app-cb4d3",
+    "storage_bucket": "go-credit-app-cb4d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640116460158:android:9e93e1e2261a2591f2a62f",
+        "android_client_info": {
+          "package_name": "com.goglobalschool.posOnline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640116460158-pljqn749n91h8fvn5bf7dcocgivj7n70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1nd_hfSnRvBR_bHpoAO5sRc3pLT7tow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640116460158-pljqn749n91h8fvn5bf7dcocgivj7n70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640116460158:android:109fcbe56d32ac95f2a62f",
+        "android_client_info": {
+          "package_name": "www.gocredit.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640116460158-pljqn749n91h8fvn5bf7dcocgivj7n70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1nd_hfSnRvBR_bHpoAO5sRc3pLT7tow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640116460158-pljqn749n91h8fvn5bf7dcocgivj7n70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
